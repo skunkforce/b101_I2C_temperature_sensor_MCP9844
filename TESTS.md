@@ -1,12 +1,5 @@
-# test 1
+# communication test
 ## setup
-Describe your test setup
+Connect to b018 via I2C connector. Write a simple test script to read the temperature over I2C.
 ## results
-Describe your results
-
-
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+untested
